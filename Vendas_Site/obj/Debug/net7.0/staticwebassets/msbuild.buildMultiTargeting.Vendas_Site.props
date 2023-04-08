@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vendas_Site.props" />
+</Project>
