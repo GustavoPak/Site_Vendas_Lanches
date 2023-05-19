@@ -11,5 +11,7 @@ namespace Vendas_Site.Context
 
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Lanche> Lanches { get; set; }
+        public DbSet<CarrinhoCompraItem> carrinhoCompraItems { get; set; }
+
     }
 }
