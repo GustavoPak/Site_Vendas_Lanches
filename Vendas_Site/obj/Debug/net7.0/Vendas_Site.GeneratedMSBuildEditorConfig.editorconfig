@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Gustavo\Documents\Site vendas de lanche\Vendas_Site\Vendas_Site
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Gustavo/Documents/Site vendas de lanche/Vendas_Site/Vendas_Site/Views/CarrinhoCompra/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9Db21wcmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Gustavo/Documents/Site vendas de lanche/Vendas_Site/Vendas_Site/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Gustavo/Documents/Site vendas de lanche/Vendas_Site/Vendas_Site/Views/Lanche/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gustavo/Documents/Site vendas de lanche/Vendas_Site/Vendas_Site/Views/Shared/Components/CarrinhoQuant/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FycmluaG9RdWFudFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Gustavo/Documents/Site vendas de lanche/Vendas_Site/Vendas_Site/Views/Shared/Error.cshtml]

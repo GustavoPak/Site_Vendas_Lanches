@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Configuration;
 using Vendas_Site.Context;
+using Vendas_Site.Models;
 using Vendas_Site.Repositories;
 using Vendas_Site.Repositories.Interfaces;
 
@@ -15,9 +16,12 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddTransient<ILancheRepository,LancheRepository>();
 builder.Services.AddTransient<ICategoriaRepository,CategoriaRepository>();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddScoped(sp => CarrinhoCompra.GetCarrinhoCompra(sp));
+
 builder.Services.AddMemoryCache();
 builder.Services.AddSession();
-builder.Services.AddSingleton<IHttpContextAccessor,HttpContextAccessor>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
