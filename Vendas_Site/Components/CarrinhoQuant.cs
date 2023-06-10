@@ -22,7 +22,7 @@ namespace Vendas_Site.Components
             var CarrinhoVM = new CarrinhoCompraVIewModel
             {
                 CarrinhoCompra = _Carrinho,
-                CarrinhoCompraTotal = _Carrinho.CarrinhoCompraTotal()
+                CarrinhoCompraTotal = _Carrinho.GetCarrinhoCompraTotal()
             };
 
             return View(CarrinhoVM);

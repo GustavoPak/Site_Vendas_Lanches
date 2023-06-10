@@ -90,13 +90,10 @@ namespace Vendas_Site.Models
             _context.SaveChanges();
         }
 
-        public decimal CarrinhoCompraTotal()
+        public decimal GetCarrinhoCompraTotal()
         {
-            decimal total = _context.carrinhoCompraItems
-                             .Where(p => p.CarrinhoCompraId == CarrinhoCompraId)
-                             .Select(p => p.Lanche.Preco * p.Quantidade)
-                             .Sum();
-
+            var total = _context.carrinhoCompraItems.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
+                .Select(c => c.Lanche.Preco * c.Quantidade).Sum();
             return total;
         }
 

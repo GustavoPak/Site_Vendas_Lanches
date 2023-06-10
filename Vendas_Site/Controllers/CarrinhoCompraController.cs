@@ -25,7 +25,7 @@ namespace Vendas_Site.Controllers
             var CarrinhoVM = new CarrinhoCompraVIewModel
             {
                 CarrinhoCompra = _CarrinhoCompra,
-                CarrinhoCompraTotal = _CarrinhoCompra.CarrinhoCompraTotal()
+                CarrinhoCompraTotal = _CarrinhoCompra.GetCarrinhoCompraTotal()
             };
 
             return View(CarrinhoVM);
