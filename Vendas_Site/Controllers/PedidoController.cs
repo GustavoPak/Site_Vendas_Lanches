@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.Editing;
 using Vendas_Site.Models;
 using Vendas_Site.Repositories.Interfaces;
@@ -16,12 +17,14 @@ namespace Vendas_Site.Controllers
             _pedidoRepository = pedidoRepository;
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult Checkout()
         {
             return View();
         }
 
+        [Authorize]
         [HttpPost]
         public IActionResult Checkout(Pedido pedido)
         {

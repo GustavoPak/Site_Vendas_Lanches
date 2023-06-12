@@ -45,8 +45,20 @@
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
     },
     {
+      "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\login1.jpg",
+      "PackagePath": "staticwebassets\\images\\login1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\login_48.png",
+      "PackagePath": "staticwebassets\\images\\login_48.png"
+    },
+    {
       "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\phone-app-icon.png",
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\registro1.jpg",
+      "PackagePath": "staticwebassets\\images\\registro1.jpg"
     },
     {
       "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\remove.ico",

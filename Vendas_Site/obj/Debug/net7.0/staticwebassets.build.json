@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mIkjwJ/fRu9uZc9XI20flYriylKjG5Ox8nt32+dPDo8=",
+  "Hash": "d/fWFfT5Xza5nGhQwMnHzqPQk2YDgEOiVNhIMLRL4nc=",
   "Source": "Vendas_Site",
   "BasePath": "_content/Vendas_Site",
   "Mode": "Default",
@@ -221,6 +221,40 @@
       "OriginalItemSpec": "wwwroot\\images\\Home-iconred.png"
     },
     {
+      "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\login_48.png",
+      "SourceId": "Vendas_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\",
+      "BasePath": "_content/Vendas_Site",
+      "RelativePath": "images/login_48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login_48.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\login1.jpg",
+      "SourceId": "Vendas_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\",
+      "BasePath": "_content/Vendas_Site",
+      "RelativePath": "images/login1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\phone-app-icon.png",
       "SourceId": "Vendas_Site",
       "SourceType": "Discovered",
@@ -236,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\phone-app-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\registro1.jpg",
+      "SourceId": "Vendas_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\",
+      "BasePath": "_content/Vendas_Site",
+      "RelativePath": "images/registro1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registro1.jpg"
     },
     {
       "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\remove.ico",

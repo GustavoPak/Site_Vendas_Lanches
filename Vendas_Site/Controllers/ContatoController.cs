@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using NuGet.Protocol.Core.Types;
 
 namespace Vendas_Site.Controllers
 {
@@ -6,7 +7,12 @@ namespace Vendas_Site.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            if (User.Identity.IsAuthenticated)
+            {
+                return View();
+            }
+
+            return RedirectToAction("Login", "Account");
         }
     }
 }

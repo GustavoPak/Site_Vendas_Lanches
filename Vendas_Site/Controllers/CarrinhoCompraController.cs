@@ -3,6 +3,7 @@ using Vendas_Site.Models;
 using Vendas_Site.ViewModels;
 using Vendas_Site.Repositories;
 using Vendas_Site.Repositories.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Vendas_Site.Controllers
 {
@@ -31,6 +32,7 @@ namespace Vendas_Site.Controllers
             return View(CarrinhoVM);
         }
 
+        [Authorize]
         public IActionResult AdicionarCarrinho(int lancheId)
         {
 
@@ -45,6 +47,7 @@ namespace Vendas_Site.Controllers
             return RedirectToAction("Index");
         }
 
+        [Authorize]
         public IActionResult RemoverDoCarrinho(int lancheId)
         {
             var lanche = _lancheRepository.Lanches

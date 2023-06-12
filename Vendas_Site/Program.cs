@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Configuration;
 using Vendas_Site.Context;
@@ -13,6 +14,20 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(StringConnection));
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+       .AddEntityFrameworkStores<AppDbContext>()
+       .AddDefaultTokenProviders();
+
+builder.Services.Configure<IdentityOptions>(options =>
+{
+    options.Password.RequireDigit = false;
+    options.Password.RequireLowercase = false;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequireUppercase = false;
+    options.Password.RequiredLength = 3;
+    options.Password.RequiredUniqueChars = 1;
+});
 
 builder.Services.AddTransient<ILancheRepository,LancheRepository>();
 builder.Services.AddTransient<ICategoriaRepository,CategoriaRepository>();
@@ -40,8 +55,10 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthorization();
 app.UseSession();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "CategoriaFiltro",
@@ -51,5 +68,10 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "Login",
+    pattern: "Login",
+    defaults: new { Controller = "Account", Action = "Login" });
 
 app.Run();
