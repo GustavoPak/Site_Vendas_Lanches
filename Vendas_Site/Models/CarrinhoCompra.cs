@@ -30,7 +30,7 @@ namespace Vendas_Site.Models
 
         public void AdicionarAoCarrinho(Lanche lanche)
         {
-            var carrinhoCompraItem = _context.carrinhoCompraItems.SingleOrDefault
+            var carrinhoCompraItem = _context.CarrinhoCompraItems.SingleOrDefault
                  (p => p.Lanche.LancheId == lanche.LancheId && p.CarrinhoCompraId == CarrinhoCompraId);
 
             if(carrinhoCompraItem == null)
@@ -42,7 +42,7 @@ namespace Vendas_Site.Models
                     Quantidade = 1
                 };
 
-                _context.carrinhoCompraItems.Add(carrinhoCompraItem);
+                _context.CarrinhoCompraItems.Add(carrinhoCompraItem);
             }
             else
             {
@@ -54,7 +54,7 @@ namespace Vendas_Site.Models
 
         public void RemoverDoCarrinho(Lanche lanche)
         {
-            var carrinhoItem = _context.carrinhoCompraItems.SingleOrDefault(p =>
+            var carrinhoItem = _context.CarrinhoCompraItems.SingleOrDefault(p =>
             p.Lanche.LancheId == lanche.LancheId && p.CarrinhoCompraId == CarrinhoCompraId);
 
             if (carrinhoItem != null)
@@ -65,7 +65,7 @@ namespace Vendas_Site.Models
                 }
                 else
                 {
-                    _context.carrinhoCompraItems.Remove(carrinhoItem);
+                    _context.CarrinhoCompraItems.Remove(carrinhoItem);
                 }
             }
 
@@ -75,7 +75,7 @@ namespace Vendas_Site.Models
         public List<CarrinhoCompraItem> GetCarrinhoCompraItens()
         {
           return CarrinhoCompraItems ?? (CarrinhoCompraItems = 
-                 _context.carrinhoCompraItems
+                 _context.CarrinhoCompraItems
                   .Where(p => p.CarrinhoCompraId == CarrinhoCompraId)
                    .Include(s => s.Lanche)
                      .ToList());
@@ -83,16 +83,16 @@ namespace Vendas_Site.Models
 
         public void LimparCarrinho()
         {
-            var carrinhoItens = _context.carrinhoCompraItems
+            var carrinhoItens = _context.CarrinhoCompraItems
                                   .Where(p => p.CarrinhoCompraId == CarrinhoCompraId);
 
-            _context.carrinhoCompraItems.RemoveRange(carrinhoItens);
+            _context.CarrinhoCompraItems.RemoveRange(carrinhoItens);
             _context.SaveChanges();
         }
 
         public decimal GetCarrinhoCompraTotal()
         {
-            var total = _context.carrinhoCompraItems.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
+            var total = _context.CarrinhoCompraItems.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
                 .Select(c => c.Lanche.Preco * c.Quantidade).Sum();
             return total;
         }

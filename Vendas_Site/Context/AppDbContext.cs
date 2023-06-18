@@ -13,7 +13,7 @@ namespace Vendas_Site.Context
 
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Lanche> Lanches { get; set; }
-        public DbSet<CarrinhoCompraItem> carrinhoCompraItems { get; set; }
+        public DbSet<CarrinhoCompraItem> CarrinhoCompraItems { get; set; }
         public DbSet<Pedido> Pedidos { get; set; }
         public DbSet<PedidoDetalhe> PedidoDetalhes { get; set; }
 

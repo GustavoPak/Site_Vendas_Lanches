@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\images\\Home-iconred.png"
     },
     {
+      "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\images\\adminarea.jpg"
+    },
+    {
       "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\carousel11.jpg",
       "PackagePath": "staticwebassets\\images\\carousel11.jpg"
     },
@@ -43,6 +47,10 @@
     {
       "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\faleconosco1.jpg",
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\images.png",
+      "PackagePath": "staticwebassets\\images\\images.png"
     },
     {
       "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\login1.jpg",

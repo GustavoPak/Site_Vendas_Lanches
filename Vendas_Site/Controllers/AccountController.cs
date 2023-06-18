@@ -64,6 +64,7 @@ namespace Vendas_Site.Controllers
 
                 if (conclusão.Succeeded)
                 {
+                    await _userManager.AddToRoleAsync(usuário, "Member");
                     return RedirectToAction("Login", "Account");
                 }
                 else
@@ -82,6 +83,11 @@ namespace Vendas_Site.Controllers
             await _signInManager.SignOutAsync();
 
             return RedirectToAction("Index", "Home");
+        }
+
+        public IActionResult AccessDenied()
+        {
+            return View();
         }
     }
 }

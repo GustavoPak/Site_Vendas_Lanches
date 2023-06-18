@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d/fWFfT5Xza5nGhQwMnHzqPQk2YDgEOiVNhIMLRL4nc=",
+  "Hash": "B/djJT9T9muIuwLPA+hygasS3xdItqEnzbCY1aRpsOA=",
   "Source": "Vendas_Site",
   "BasePath": "_content/Vendas_Site",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\adminarea.jpg",
+      "SourceId": "Vendas_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\",
+      "BasePath": "_content/Vendas_Site",
+      "RelativePath": "images/adminarea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adminarea.jpg"
     },
     {
       "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\carousel11.jpg",
@@ -219,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Home-iconred.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\images.png",
+      "SourceId": "Vendas_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\",
+      "BasePath": "_content/Vendas_Site",
+      "RelativePath": "images/images.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.png"
     },
     {
       "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\login_48.png",
