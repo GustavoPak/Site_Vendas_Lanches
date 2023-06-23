@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[7.0.7, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.31, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.7, )"
@@ -67,6 +71,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.7, )"
+            },
+            "ReflectionIT.Mvc.Paging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

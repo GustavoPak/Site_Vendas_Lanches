@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B/djJT9T9muIuwLPA+hygasS3xdItqEnzbCY1aRpsOA=",
+  "Hash": "GlDFJtpaquHxYLSb3EtCf14+GSJemI/hsd85NAjy+DA=",
   "Source": "Vendas_Site",
   "BasePath": "_content/Vendas_Site",
   "Mode": "Default",
@@ -338,6 +338,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\remove.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\upload2.png",
+      "SourceId": "Vendas_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\",
+      "BasePath": "_content/Vendas_Site",
+      "RelativePath": "images/upload2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\upload2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\visualizar1.jpg",
+      "SourceId": "Vendas_Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\",
+      "BasePath": "_content/Vendas_Site",
+      "RelativePath": "images/visualizar1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\visualizar1.jpg"
     },
     {
       "Identity": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\js\\site.js",

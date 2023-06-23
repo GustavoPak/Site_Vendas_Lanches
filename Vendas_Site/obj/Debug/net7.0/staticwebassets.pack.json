@@ -73,6 +73,14 @@
       "PackagePath": "staticwebassets\\images\\remove.ico"
     },
     {
+      "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

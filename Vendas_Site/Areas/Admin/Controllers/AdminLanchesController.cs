@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using ReflectionIT.Mvc.Paging;
 using Vendas_Site.Context;
 using Vendas_Site.Models;
 
@@ -24,10 +25,20 @@ namespace Vendas_Site.Areas.Admin.Controllers
         }
 
         // GET: Admin/AdminLanches
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string filter, int pageindex = 1, string sort = "Nome")
         {
-            var appDbContext = _context.Lanches.Include(l => l.Categoria);
-            return View(await appDbContext.ToListAsync());
+            var qry = _context.Lanches.Include(p => p.Categoria).OrderBy(p => p.Nome).AsQueryable();
+
+            if (!String.IsNullOrWhiteSpace(filter))
+            {
+                qry = qry.Where(p => p.Nome.Contains(filter));
+            }
+
+            var model = await PagingList.CreateAsync(qry, 10, pageindex, sort, "Nome");
+            
+            model.RouteValue = new RouteValueDictionary { { "filter", filter } };
+
+            return View(model);
         }
 
         // GET: Admin/AdminLanches/Details/5

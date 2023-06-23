@@ -7,8 +7,10 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using ReflectionIT.Mvc.Paging;
 using Vendas_Site.Context;
 using Vendas_Site.Models;
+using Vendas_Site.ViewModels;
 
 namespace Vendas_Site.Areas.Admin.Controllers
 {
@@ -24,9 +26,19 @@ namespace Vendas_Site.Areas.Admin.Controllers
         }
 
         // GET: Admin/AdminPedidos
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string filter,int pageindex = 1, string sort = "Nome")
         {
-              return View(await _context.Pedidos.ToListAsync());
+            var qry = _context.Pedidos.AsNoTracking().AsQueryable();
+
+            if(!String.IsNullOrWhiteSpace(filter))
+            {
+                qry = qry.Where(p => p.Nome.Contains(filter));
+            }
+
+            var model = await PagingList.CreateAsync(qry, 5, pageindex, sort, "Nome");
+            model.RouteValue = new RouteValueDictionary {{ "filter", filter}};
+
+            return View(model);
         }
 
         // GET: Admin/AdminPedidos/Details/5
@@ -83,6 +95,34 @@ namespace Vendas_Site.Areas.Admin.Controllers
                 return NotFound();
             }
             return View(pedido);
+        }
+
+        //Area para exibição detalhada dos lanches de um pedido
+
+        public IActionResult PedidoLanches(int ? Id)
+        {
+            var pedido = _context.Pedidos.Include(pd => pd.PedidoItens)
+                                         .ThenInclude(l => l.Lanche)
+                                         .FirstOrDefault(p => p.PedidoId == Id);
+
+            if(pedido == null)
+            {
+                Response.StatusCode = 404;
+                return View("PedidoNotFound", Id.Value);
+            }
+
+            PedidoLancheViewModel PedidoVM = new PedidoLancheViewModel
+            {
+                Pedido = pedido,
+                PedidoDetalhes = pedido.PedidoItens
+            };
+
+            return View(PedidoVM);
+        }
+
+        public IActionResult PedidoNotFound()
+        {
+            return View();
         }
 
         // POST: Admin/AdminPedidos/Edit/5

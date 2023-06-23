@@ -9,6 +9,9 @@ using Vendas_Site.Repositories.Interfaces;
 using Vendas_Site.Services;
 using Microsoft.Extensions.Hosting;
 using System.Drawing.Text;
+using ReflectionIT.Mvc.Paging;
+using Vendas_Site.Servicos;
+using Vendas_Site.Areas.Admin.Servicos;
 
 var StringConnection = "Server=DESKTOP-F2T5O8F\\SQLEXPRESS;Database=LanchesFinal;Trusted_Connection=True;TrustServerCertificate=true;";
 
@@ -21,6 +24,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
        .AddEntityFrameworkStores<AppDbContext>()
        .AddDefaultTokenProviders();
+
+
+builder.Services.Configure<ConfigurationImagens>(builder.Configuration.GetSection("ConfigurationPastaImagens"));
 
 builder.Services.Configure<IdentityOptions>(options =>
 {
@@ -38,6 +44,8 @@ builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped(sp => CarrinhoCompra.GetCarrinhoCompra(sp));
 builder.Services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+builder.Services.AddScoped<RelatorioVendasService>();
+builder.Services.AddScoped<GraficoVendasService>();
 
 builder.Services.AddAuthorization(options =>
   options.AddPolicy("Admin", p =>
@@ -49,6 +57,11 @@ builder.Services.AddMemoryCache();
 builder.Services.AddSession();
 
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddPaging(options => {
+    options.ViewName = "Bootstrap5";
+    options.PageParameterName = "pageindex";
+});
 
 var app = builder.Build();
 
