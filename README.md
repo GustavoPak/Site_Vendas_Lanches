@@ -16,7 +16,7 @@ Utilizei o sistema do SQL Server para armazenas os produtos e suas categorias.</
 
 ![Image](https://github.com/user-attachments/assets/c25e0439-d70d-4457-aff5-bdaf475d0467)
 
-<h2>Sistema de carrinho de compras</h2>
+<h2>Sistema de carrinho de compras 🛒</h2>
 
 <p>Esse sistema permite que qualquer usuário cadastrado possa adicionar itens em um sistema de carrinho,que é salvo no banco de dados até que o usuários finalize a compra.</p>
 
