@@ -1,0 +1,1177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\models\\configurationimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\models\\configurationimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\services\\iseeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\services\\iseeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230610210729_idetity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230610210729_idetity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\components\\carrinhoquant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\components\\carrinhoquant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\controllers\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\controllers\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\controllers\\admingraficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\controllers\\admingraficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\admingrafico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\admingrafico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\servicos\\graficovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\servicos\\graficovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminimagens\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminimagens\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\servicos\\relatoriovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\servicos\\relatoriovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\models\\pedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\models\\pedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminimagens\\getimages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminimagens\\getimages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminimagens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminimagens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\controllers\\adminlanchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\controllers\\adminlanchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\controllers\\adminrelatoriovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\controllers\\adminrelatoriovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\models\\filemanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\models\\filemanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminrelatoriovendas\\relatoriovendassimples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminrelatoriovendas\\relatoriovendassimples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminpedidos\\pedidonotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminpedidos\\pedidonotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminlanches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminlanches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminlanches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminlanches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminrelatoriovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminrelatoriovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminpedidos\\pedidolanches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminpedidos\\pedidolanches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\adminpedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\adminpedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\viewmodels\\pedidolancheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\viewmodels\\pedidolancheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\areas\\admin\\views\\admincategorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\areas\\admin\\views\\admincategorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230617104850_seila.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230617104850_seila.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230617104850_seila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230617104850_seila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230610205023_Identity-Imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\pedido\\checkoutcompleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\pedido\\checkoutcompleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\pedido\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\pedido\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\repositories\\lancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\repositories\\lancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\components\\categoriamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\components\\categoriamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\viewmodels\\carrinhocompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\viewmodels\\carrinhocompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230516111129_addcarrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230516111129_addcarrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\viewmodels\\lanchelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\viewmodels\\lanchelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230510181145_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230510181145_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230508214829_migracao-inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230508214829_migracao-inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230508173821_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230510161548_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230510161548_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230603124708_pedidodetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230603124708_pedidodetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminImagensController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RelatorioVendasService.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationImagens.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\ConfigurationImagens.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Models\\ConfigurationImagens.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\ConfigurationImagens.cs",
+              "RelativeToolTip": "Vendas_Site\\Models\\ConfigurationImagens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\appsettings.json",
+              "RelativeDocumentMoniker": "Vendas_Site\\appsettings.json",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\appsettings.json",
+              "RelativeToolTip": "Vendas_Site\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T17:42:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LancheController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\LancheController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Controllers\\LancheController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\LancheController.cs",
+              "RelativeToolTip": "Vendas_Site\\Controllers\\LancheController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Lanche\\List.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Lanche\\List.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Lanche\\List.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Lanche\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LanchesResumo.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Program.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Program.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Program.cs",
+              "RelativeToolTip": "Vendas_Site\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Shared\\LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20230610210729_Idetity.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230610210729_Idetity.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230610210729_Idetity.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230610210729_Idetity.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230610210729_Idetity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminGraficoController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarrinhoQuant.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Components\\CarrinhoQuant.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Components\\CarrinhoQuant.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Components\\CarrinhoQuant.cs",
+              "RelativeToolTip": "Vendas_Site\\Components\\CarrinhoQuant.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedUserRoleInitial.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Services\\SeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Services\\SeedUserRoleInitial.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Services\\SeedUserRoleInitial.cs",
+              "RelativeToolTip": "Vendas_Site\\Services\\SeedUserRoleInitial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:25:57.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISeedUserRoleInitial.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Services\\ISeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Services\\ISeedUserRoleInitial.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Services\\ISeedUserRoleInitial.cs",
+              "RelativeToolTip": "Vendas_Site\\Services\\ISeedUserRoleInitial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:25:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T19:10:41.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminPedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwGgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UploadFiles.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GraficoVendasService.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvy4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAOBvwAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PedidoDetalhe.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\PedidoDetalhe.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Models\\PedidoDetalhe.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\PedidoDetalhe.cs",
+              "RelativeToolTip": "Vendas_Site\\Models\\PedidoDetalhe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminRelatorioVendasController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminLanchesController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetImages.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\GetImages.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\GetImages.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\GetImages.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\GetImages.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwBYAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PedidoNotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAOBvwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileManagerModel.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\FileManagerModel.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Models\\FileManagerModel.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\FileManagerModel.cs",
+              "RelativeToolTip": "Vendas_Site\\Models\\FileManagerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RelatorioVendasSimples.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PedidoLanches.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAOBvwHMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PedidoLancheViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\PedidoLancheViewModel.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\PedidoLancheViewModel.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\PedidoLancheViewModel.cs",
+              "RelativeToolTip": "Vendas_Site\\ViewModels\\PedidoLancheViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Vendas_Site\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmailTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\TagHelpers\\EmailTagHelper.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeToolTip": "Vendas_Site\\TagHelpers\\EmailTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20230617104850_seila.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230617104850_seila.Designer.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230617104850_seila.Designer.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230617104850_seila.Designer.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230617104850_seila.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Vendas_Site\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAWwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAFB2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20230617104850_seila.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230617104850_seila.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230617104850_seila.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230617104850_seila.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230617104850_seila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Vendas_Site\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Vendas_Site\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Vendas_Site\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20230610205023_Identity-Imp.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230610205023_Identity-Imp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230610205023_Identity-Imp.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230610205023_Identity-Imp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230610205023_Identity-Imp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-10T20:50:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "Vendas_Site\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CheckoutCompleto.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Pedido\\CheckoutCompleto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAACBzwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\Pedido.cs",
+              "RelativeToolTip": "Vendas_Site\\Models\\Pedido.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Pedido\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Pedido\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Pedido\\Checkout.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Pedido\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAICJwDYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Vendas_Site\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Vendas_Site\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-23T17:42:43.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "Vendas_Site\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LancheRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\LancheRepository.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Repositories\\LancheRepository.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\LancheRepository.cs",
+              "RelativeToolTip": "Vendas_Site\\Repositories\\LancheRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20230603124708_PedidoDetalhes.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230603124708_PedidoDetalhes.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230603124708_PedidoDetalhes.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230603124708_PedidoDetalhes.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230603124708_PedidoDetalhes.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoriaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Components\\CategoriaMenu.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Components\\CategoriaMenu.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Components\\CategoriaMenu.cs",
+              "RelativeToolTip": "Vendas_Site\\Components\\CategoriaMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_Carousel.cshtml",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\_Carousel.cshtml",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeToolTip": "Vendas_Site\\Views\\Shared\\_Carousel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:42:43.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LancheLIstViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\LancheLIstViewModel.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\LancheLIstViewModel.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\LancheLIstViewModel.cs",
+              "RelativeToolTip": "Vendas_Site\\ViewModels\\LancheLIstViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CarrinhoCompraVIewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\CarrinhoCompraVIewModel.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\CarrinhoCompraVIewModel.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\CarrinhoCompraVIewModel.cs",
+              "RelativeToolTip": "Vendas_Site\\ViewModels\\CarrinhoCompraVIewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CarrinhoCompraItem.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\CarrinhoCompraItem.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Models\\CarrinhoCompraItem.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\CarrinhoCompraItem.cs",
+              "RelativeToolTip": "Vendas_Site\\Models\\CarrinhoCompraItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20230516111129_AddCarrinhoCompraItem.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230516111129_AddCarrinhoCompraItem.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230516111129_AddCarrinhoCompraItem.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230516111129_AddCarrinhoCompraItem.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230516111129_AddCarrinhoCompraItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20230508214829_Migracao-inicial.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230508214829_Migracao-inicial.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230508214829_Migracao-inicial.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230508214829_Migracao-inicial.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230508214829_Migracao-inicial.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20230510181145_PopularLanches.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20230510161548_PopularCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510161548_PopularCategorias.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230510161548_PopularCategorias.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510161548_PopularCategorias.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230510161548_PopularCategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20230508173821_teste.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230508173821_teste.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230508173821_teste.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230508173821_teste.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230508173821_teste.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-08T17:38:22.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Vendas_Site\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Vendas_Site\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T17:42:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Vendas_Site\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAADB0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T17:42:43.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

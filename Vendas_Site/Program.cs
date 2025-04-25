@@ -13,13 +13,11 @@ using ReflectionIT.Mvc.Paging;
 using Vendas_Site.Servicos;
 using Vendas_Site.Areas.Admin.Servicos;
 
-var StringConnection = "Server=DESKTOP-F2T5O8F\\SQLEXPRESS;Database=LanchesFinal;Trusted_Connection=True;TrustServerCertificate=true;";
-
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(StringConnection));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
        .AddEntityFrameworkStores<AppDbContext>()

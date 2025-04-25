@@ -12493,19 +12493,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gustavo\\.nuget\\packages\\": {}
+    "C:\\Users\\gutsk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Vendas_Site.csproj",
+      "projectUniqueName": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Vendas_Site.csproj",
       "projectName": "Vendas_Site",
-      "projectPath": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Vendas_Site.csproj",
-      "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\obj\\",
+      "projectPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Vendas_Site.csproj",
+      "packagesPath": "C:\\Users\\gutsk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gutsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12513,6 +12518,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12525,7 +12531,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net7.0": {
@@ -12587,8 +12599,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Identity' 2.1.31 has a known high severity vulnerability, https://github.com/advisories/GHSA-25c8-p796-jg6r",
+      "libraryId": "Microsoft.AspNetCore.Identity",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
