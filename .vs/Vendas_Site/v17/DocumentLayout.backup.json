@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230510181145_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230510181145_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -262,10 +266,6 @@
       "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\viewmodels\\lanchelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230510181145_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230510181145_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|c:\\users\\gutsk\\documents\\projetos github\\projeto_lanchonete\\site_vendas_lanches\\vendas_site\\migrations\\20230508214829_migracao-inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEFF425B-D4BD-4130-8DDB-B627F8DC5E65}|Vendas_Site\\Vendas_Site.csproj|solutionrelative:vendas_site\\migrations\\20230508214829_migracao-inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -296,24 +296,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminImagensController.cs",
-              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
-              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
-              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
-              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEgAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:42:43.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "RelatorioVendasService.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Servicos\\RelatorioVendasService.cs",
@@ -325,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConfigurationImagens.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\ConfigurationImagens.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Models\\ConfigurationImagens.cs",
@@ -333,12 +320,11 @@
               "RelativeToolTip": "Vendas_Site\\Models\\ConfigurationImagens.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:42:43.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T17:42:43.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\appsettings.json",
               "RelativeDocumentMoniker": "Vendas_Site\\appsettings.json",
@@ -350,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LancheController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\LancheController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Controllers\\LancheController.cs",
@@ -358,12 +344,11 @@
               "RelativeToolTip": "Vendas_Site\\Controllers\\LancheController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAiwAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:42:43.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T17:42:43.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Lanche\\List.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Lanche\\List.cshtml",
@@ -371,25 +356,24 @@
               "RelativeToolTip": "Vendas_Site\\Views\\Lanche\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T17:42:43.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T17:42:43.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_LanchesResumo.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
               "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
               "RelativeToolTip": "Vendas_Site\\Views\\Shared\\_LanchesResumo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-23T17:42:43.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Program.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Program.cs",
@@ -397,12 +381,11 @@
               "RelativeToolTip": "Vendas_Site\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:42:43.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T17:42:43.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\LoginPartial.cshtml",
@@ -414,7 +397,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
+              "Title": "20230510181145_PopularLanches.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "RelativeToolTip": "Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminImagensController.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "RelativeToolTip": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:42:43.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20230610210729_Idetity.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230610210729_Idetity.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230610210729_Idetity.cs",
@@ -426,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AdminGraficoController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
@@ -438,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CarrinhoQuant.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Components\\CarrinhoQuant.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Components\\CarrinhoQuant.cs",
@@ -450,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SeedUserRoleInitial.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Services\\SeedUserRoleInitial.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Services\\SeedUserRoleInitial.cs",
@@ -458,12 +466,11 @@
               "RelativeToolTip": "Vendas_Site\\Services\\SeedUserRoleInitial.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:25:57.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T12:25:57.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ISeedUserRoleInitial.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Services\\ISeedUserRoleInitial.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Services\\ISeedUserRoleInitial.cs",
@@ -471,12 +478,11 @@
               "RelativeToolTip": "Vendas_Site\\Services\\ISeedUserRoleInitial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:25:53.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T12:25:53.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\_ViewStart.cshtml",
@@ -488,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\_Layout.cshtml",
@@ -496,12 +502,11 @@
               "RelativeToolTip": "Vendas_Site\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T17:42:43.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T17:42:43.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Home\\Index.cshtml",
@@ -513,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminController.cs",
@@ -525,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
@@ -537,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AdminPedidosController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
@@ -549,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UploadFiles.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
@@ -561,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GraficoVendasService.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
@@ -573,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
@@ -585,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
@@ -597,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -609,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "PedidoDetalhe.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\PedidoDetalhe.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Models\\PedidoDetalhe.cs",
@@ -621,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AdminRelatorioVendasController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
@@ -633,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AdminLanchesController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
@@ -645,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "GetImages.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\GetImages.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\GetImages.cshtml",
@@ -657,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
@@ -669,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "PedidoNotFound.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoNotFound.cshtml",
@@ -681,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
@@ -693,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "FileManagerModel.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\FileManagerModel.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Models\\FileManagerModel.cs",
@@ -705,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "RelatorioVendasSimples.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
@@ -717,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "PedidoLanches.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
@@ -729,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
@@ -741,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -753,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "PedidoLancheViewModel.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\PedidoLancheViewModel.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\PedidoLancheViewModel.cs",
@@ -765,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Context\\AppDbContext.cs",
@@ -777,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "EmailTagHelper.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\TagHelpers\\EmailTagHelper.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\TagHelpers\\EmailTagHelper.cs",
@@ -789,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "20230617104850_seila.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230617104850_seila.Designer.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230617104850_seila.Designer.cs",
@@ -801,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Controllers\\AccountController.cs",
@@ -813,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Areas\\Admin\\Views\\AdminCategorias\\Index.cshtml",
@@ -825,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Account\\AccessDenied.cshtml",
@@ -837,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "20230617104850_seila.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230617104850_seila.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230617104850_seila.cs",
@@ -849,7 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "ContatoController.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Controllers\\ContatoController.cs",
@@ -861,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\_ViewImports.cshtml",
@@ -873,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Account\\Login.cshtml",
@@ -885,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\LoginViewModel.cs",
@@ -897,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\RegisterViewModel.cs",
@@ -909,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Account\\Register.cshtml",
@@ -921,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "20230610205023_Identity-Imp.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230610205023_Identity-Imp.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Gustavo\\Documents\\Site vendas de lanche\\Vendas_Site\\Vendas_Site\\Migrations\\20230610205023_Identity-Imp.cs",
@@ -932,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "PedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\PedidoRepository.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Repositories\\PedidoRepository.cs",
@@ -944,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "CheckoutCompleto.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Pedido\\CheckoutCompleto.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Pedido\\CheckoutCompleto.cshtml",
@@ -956,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Models\\Pedido.cs",
@@ -968,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Pedido\\Checkout.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Pedido\\Checkout.cshtml",
@@ -980,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Vendas_Site\\wwwroot\\js\\site.js",
@@ -992,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "CategoriaRepository.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\CategoriaRepository.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Repositories\\CategoriaRepository.cs",
@@ -1004,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "LancheRepository.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Repositories\\LancheRepository.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Repositories\\LancheRepository.cs",
@@ -1028,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "CategoriaMenu.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Components\\CategoriaMenu.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Components\\CategoriaMenu.cs",
@@ -1040,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "_Carousel.cshtml",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Views\\Shared\\_Carousel.cshtml",
               "RelativeDocumentMoniker": "Vendas_Site\\Views\\Shared\\_Carousel.cshtml",
@@ -1052,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "LancheLIstViewModel.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\LancheLIstViewModel.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\LancheLIstViewModel.cs",
@@ -1064,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "CarrinhoCompraVIewModel.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\ViewModels\\CarrinhoCompraVIewModel.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\ViewModels\\CarrinhoCompraVIewModel.cs",
@@ -1076,7 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "CarrinhoCompraItem.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Models\\CarrinhoCompraItem.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Models\\CarrinhoCompraItem.cs",
@@ -1088,7 +1093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "20230516111129_AddCarrinhoCompraItem.cs",
               "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230516111129_AddCarrinhoCompraItem.cs",
               "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230516111129_AddCarrinhoCompraItem.cs",
@@ -1109,18 +1114,6 @@
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T17:42:43.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "20230510181145_PopularLanches.cs",
-              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
-              "RelativeDocumentMoniker": "Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
-              "ToolTip": "C:\\Users\\gutsk\\Documents\\Projetos Github\\Projeto_Lanchonete\\Site_Vendas_Lanches\\Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
-              "RelativeToolTip": "Vendas_Site\\Migrations\\20230510181145_PopularLanches.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:42:43.342Z"
             },
             {
               "$type": "Document",

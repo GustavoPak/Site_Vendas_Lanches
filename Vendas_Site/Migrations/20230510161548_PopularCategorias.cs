@@ -15,6 +15,12 @@ namespace Vendas_Site.Migrations
 
             migrationBuilder.Sql("INSERT INTO Categorias (CategoriaNome,Descricao)" +
                 "VALUES('Natural','Lanche feito com ingredientes naturais')");
+
+            migrationBuilder.Sql("INSERT INTO Categorias (CategoriaNome,Descricao)" +
+                "VALUES('Bebidas','Bebidas e refrescos')");
+
+            migrationBuilder.Sql("INSERT INTO Categorias (CategoriaNome,Descricao)" +
+                "VALUES('Doces','bolos, doces, pães doces e outras sobremesas')");
         }
 
         /// <inheritdoc />
